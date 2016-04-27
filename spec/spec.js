@@ -1,4 +1,5 @@
 describe('Estudo sobre Protractor', function() {
+	//teste que sera executado - it
 	it('Vendo se existe um titulo', function() {
 		// pega a url e adicionar no browser
 		browser.get('http://juliemr.github.io/protractor-demo/');

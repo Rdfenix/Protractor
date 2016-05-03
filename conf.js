@@ -1,7 +1,7 @@
 exports.config = {
 	framework: 'jasmine',
 	seleniumAddress: 'http://localhost:4444/wd/hub',
-	specs: ['spec/spec4.js'],
+	specs: ['spec/spec5.js'],
 	multiCapabilities: [{
     browserName: 'firefox'
   }, {
